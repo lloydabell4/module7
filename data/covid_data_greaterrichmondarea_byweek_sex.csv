@@ -1,0 +1,676 @@
+Sex,week_of,HDistrict,sum_cases,sum_hospital,sum_deaths
+Female,2020-04-20,Chesterfield,87,2,6
+Female,2020-04-20,Henrico,123,12,11
+Female,2020-04-20,Richmond,25,9,0
+Female,2020-04-27,Chesterfield,84,6,6
+Female,2020-04-27,Henrico,78,11,7
+Female,2020-04-27,Richmond,51,6,2
+Female,2020-05-04,Chesterfield,103,8,1
+Female,2020-05-04,Henrico,61,7,1
+Female,2020-05-04,Richmond,50,10,1
+Female,2020-05-11,Chesterfield,94,3,2
+Female,2020-05-11,Henrico,88,12,3
+Female,2020-05-11,Richmond,90,4,0
+Female,2020-05-18,Chesterfield,97,1,1
+Female,2020-05-18,Henrico,96,2,3
+Female,2020-05-18,Richmond,119,5,0
+Female,2020-05-25,Chesterfield,170,10,7
+Female,2020-05-25,Henrico,165,12,5
+Female,2020-05-25,Richmond,123,9,1
+Female,2020-06-01,Chesterfield,137,6,0
+Female,2020-06-01,Henrico,114,9,0
+Female,2020-06-01,Richmond,104,7,0
+Female,2020-06-08,Chesterfield,153,10,0
+Female,2020-06-08,Henrico,74,7,1
+Female,2020-06-08,Richmond,84,5,1
+Female,2020-06-15,Chesterfield,168,2,5
+Female,2020-06-15,Henrico,57,1,3
+Female,2020-06-15,Richmond,78,8,0
+Female,2020-06-22,Chesterfield,152,3,2
+Female,2020-06-22,Henrico,87,4,1
+Female,2020-06-22,Richmond,92,11,2
+Female,2020-06-29,Chesterfield,76,7,3
+Female,2020-06-29,Henrico,47,4,9
+Female,2020-06-29,Richmond,45,6,0
+Female,2020-07-06,Chesterfield,94,11,6
+Female,2020-07-06,Henrico,73,2,10
+Female,2020-07-06,Richmond,67,5,1
+Female,2020-07-13,Chesterfield,124,22,2
+Female,2020-07-13,Henrico,85,7,1
+Female,2020-07-13,Richmond,78,5,1
+Female,2020-07-20,Chesterfield,156,12,1
+Female,2020-07-20,Henrico,87,7,3
+Female,2020-07-20,Richmond,67,7,-1
+Female,2020-07-27,Chesterfield,140,2,1
+Female,2020-07-27,Henrico,119,8,2
+Female,2020-07-27,Richmond,108,8,3
+Female,2020-08-03,Chesterfield,142,6,5
+Female,2020-08-03,Henrico,131,9,2
+Female,2020-08-03,Richmond,101,15,0
+Female,2020-08-10,Chesterfield,150,0,0
+Female,2020-08-10,Henrico,98,12,2
+Female,2020-08-10,Richmond,89,12,1
+Female,2020-08-17,Chesterfield,139,9,-2
+Female,2020-08-17,Henrico,81,2,1
+Female,2020-08-17,Richmond,85,10,1
+Female,2020-08-24,Chesterfield,90,10,1
+Female,2020-08-24,Henrico,111,6,1
+Female,2020-08-24,Richmond,111,8,3
+Female,2020-08-31,Chesterfield,126,1,1
+Female,2020-08-31,Henrico,103,8,1
+Female,2020-08-31,Richmond,115,3,1
+Female,2020-09-07,Chesterfield,153,8,1
+Female,2020-09-07,Henrico,135,3,1
+Female,2020-09-07,Richmond,84,2,1
+Female,2020-09-14,Chesterfield,114,9,2
+Female,2020-09-14,Henrico,106,10,4
+Female,2020-09-14,Richmond,82,4,2
+Female,2020-09-21,Chesterfield,111,14,3
+Female,2020-09-21,Henrico,87,11,1
+Female,2020-09-21,Richmond,65,4,1
+Female,2020-09-28,Chesterfield,114,10,0
+Female,2020-09-28,Henrico,64,8,3
+Female,2020-09-28,Richmond,55,7,0
+Female,2020-10-05,Chesterfield,115,18,0
+Female,2020-10-05,Henrico,91,7,2
+Female,2020-10-05,Richmond,81,6,1
+Female,2020-10-12,Chesterfield,156,3,0
+Female,2020-10-12,Henrico,87,4,1
+Female,2020-10-12,Richmond,93,6,2
+Female,2020-10-19,Chesterfield,175,7,1
+Female,2020-10-19,Henrico,141,3,6
+Female,2020-10-19,Richmond,65,0,1
+Female,2020-10-26,Chesterfield,186,7,10
+Female,2020-10-26,Henrico,128,5,4
+Female,2020-10-26,Richmond,96,4,1
+Female,2020-11-02,Chesterfield,172,11,1
+Female,2020-11-02,Henrico,170,11,1
+Female,2020-11-02,Richmond,133,6,0
+Female,2020-11-09,Chesterfield,190,9,2
+Female,2020-11-09,Henrico,152,9,1
+Female,2020-11-09,Richmond,94,3,0
+Female,2020-11-16,Chesterfield,262,6,2
+Female,2020-11-16,Henrico,288,14,-1
+Female,2020-11-16,Richmond,176,9,2
+Female,2020-11-23,Chesterfield,341,14,4
+Female,2020-11-23,Henrico,261,14,8
+Female,2020-11-23,Richmond,155,2,0
+Female,2020-11-30,Chesterfield,392,15,1
+Female,2020-11-30,Henrico,298,12,4
+Female,2020-11-30,Richmond,187,3,0
+Female,2020-12-07,Chesterfield,392,13,5
+Female,2020-12-07,Henrico,397,13,5
+Female,2020-12-07,Richmond,219,3,3
+Female,2020-12-14,Chesterfield,439,13,7
+Female,2020-12-14,Henrico,395,8,2
+Female,2020-12-14,Richmond,269,6,2
+Female,2020-12-21,Chesterfield,398,13,2
+Female,2020-12-21,Henrico,449,5,7
+Female,2020-12-21,Richmond,282,5,0
+Female,2020-12-28,Chesterfield,554,9,6
+Female,2020-12-28,Henrico,631,8,4
+Female,2020-12-28,Richmond,332,9,3
+Female,2021-01-04,Chesterfield,618,3,3
+Female,2021-01-04,Henrico,702,8,3
+Female,2021-01-04,Richmond,406,13,6
+Female,2021-01-11,Chesterfield,915,15,4
+Female,2021-01-11,Henrico,696,12,10
+Female,2021-01-11,Richmond,406,7,8
+Female,2021-01-18,Chesterfield,624,10,1
+Female,2021-01-18,Henrico,519,12,11
+Female,2021-01-18,Richmond,314,6,1
+Female,2021-01-25,Chesterfield,667,9,3
+Female,2021-01-25,Henrico,540,8,7
+Female,2021-01-25,Richmond,309,3,5
+Female,2021-02-01,Chesterfield,663,10,10
+Female,2021-02-01,Henrico,502,6,7
+Female,2021-02-01,Richmond,292,8,7
+Female,2021-02-08,Chesterfield,922,22,-1
+Female,2021-02-08,Henrico,356,10,3
+Female,2021-02-08,Richmond,288,9,1
+Female,2021-02-15,Chesterfield,381,7,9
+Female,2021-02-15,Henrico,255,9,5
+Female,2021-02-15,Richmond,162,7,1
+Female,2021-02-22,Chesterfield,281,10,24
+Female,2021-02-22,Henrico,241,18,57
+Female,2021-02-22,Richmond,134,7,20
+Female,2021-03-01,Chesterfield,248,12,34
+Female,2021-03-01,Henrico,162,15,22
+Female,2021-03-01,Richmond,77,11,10
+Female,2021-03-08,Chesterfield,236,7,6
+Female,2021-03-08,Henrico,160,13,10
+Female,2021-03-08,Richmond,79,10,6
+Female,2021-03-15,Chesterfield,238,10,9
+Female,2021-03-15,Henrico,185,11,2
+Female,2021-03-15,Richmond,80,7,3
+Female,2021-03-22,Chesterfield,233,13,0
+Female,2021-03-22,Henrico,250,4,1
+Female,2021-03-22,Richmond,132,0,4
+Female,2021-03-29,Chesterfield,227,9,1
+Female,2021-03-29,Henrico,223,10,2
+Female,2021-03-29,Richmond,156,7,2
+Female,2021-04-05,Chesterfield,226,16,4
+Female,2021-04-05,Henrico,202,11,3
+Female,2021-04-05,Richmond,139,7,1
+Female,2021-04-12,Chesterfield,245,7,0
+Female,2021-04-12,Henrico,212,13,2
+Female,2021-04-12,Richmond,129,4,2
+Female,2021-04-19,Chesterfield,195,10,2
+Female,2021-04-19,Henrico,190,9,2
+Female,2021-04-19,Richmond,84,7,1
+Female,2021-04-26,Chesterfield,200,8,5
+Female,2021-04-26,Henrico,156,7,3
+Female,2021-04-26,Richmond,110,9,1
+Female,2021-05-03,Chesterfield,160,12,2
+Female,2021-05-03,Henrico,92,7,1
+Female,2021-05-03,Richmond,48,3,1
+Female,2021-05-10,Chesterfield,96,4,4
+Female,2021-05-10,Henrico,49,8,4
+Female,2021-05-10,Richmond,41,4,4
+Female,2021-05-17,Chesterfield,80,1,3
+Female,2021-05-17,Henrico,62,0,5
+Female,2021-05-17,Richmond,23,0,-1
+Female,2021-05-24,Chesterfield,80,6,1
+Female,2021-05-24,Henrico,23,11,2
+Female,2021-05-24,Richmond,16,-1,1
+Female,2021-05-31,Chesterfield,34,3,0
+Female,2021-05-31,Henrico,21,1,0
+Female,2021-05-31,Richmond,29,4,0
+Female,2021-06-07,Chesterfield,26,4,3
+Female,2021-06-07,Henrico,9,7,2
+Female,2021-06-07,Richmond,8,4,1
+Female,2021-06-14,Chesterfield,8,3,0
+Female,2021-06-14,Henrico,41,9,3
+Female,2021-06-14,Richmond,1,2,1
+Female,2021-06-21,Chesterfield,16,0,0
+Female,2021-06-21,Henrico,31,2,2
+Female,2021-06-21,Richmond,11,1,0
+Female,2021-06-28,Chesterfield,35,4,-1
+Female,2021-06-28,Henrico,139,8,0
+Female,2021-06-28,Richmond,-62,-1,1
+Female,2021-07-05,Chesterfield,54,2,-1
+Female,2021-07-05,Henrico,28,-4,0
+Female,2021-07-05,Richmond,86,12,2
+Female,2021-07-12,Chesterfield,72,3,1
+Female,2021-07-12,Henrico,36,-8,0
+Female,2021-07-12,Richmond,51,-2,3
+Female,2021-07-19,Chesterfield,93,4,0
+Female,2021-07-19,Henrico,114,-17,0
+Female,2021-07-19,Richmond,74,-10,1
+Female,2021-07-26,Chesterfield,249,4,1
+Female,2021-07-26,Henrico,138,3,1
+Female,2021-07-26,Richmond,95,2,1
+Female,2021-08-02,Chesterfield,346,3,-1
+Female,2021-08-02,Henrico,211,4,0
+Female,2021-08-02,Richmond,153,8,0
+Female,2021-08-09,Chesterfield,365,2,0
+Female,2021-08-09,Henrico,318,6,0
+Female,2021-08-09,Richmond,214,2,0
+Female,2021-08-16,Chesterfield,498,9,2
+Female,2021-08-16,Henrico,362,4,1
+Female,2021-08-16,Richmond,267,4,-1
+Female,2021-08-23,Chesterfield,551,5,3
+Female,2021-08-23,Henrico,418,17,3
+Female,2021-08-23,Richmond,356,1,2
+Female,2021-08-30,Chesterfield,593,4,2
+Female,2021-08-30,Henrico,413,17,3
+Female,2021-08-30,Richmond,414,12,3
+Female,2021-09-06,Chesterfield,587,2,2
+Female,2021-09-06,Henrico,374,3,2
+Female,2021-09-06,Richmond,321,3,1
+Female,2021-09-13,Chesterfield,631,4,2
+Female,2021-09-13,Henrico,379,9,6
+Female,2021-09-13,Richmond,343,2,2
+Female,2021-09-20,Chesterfield,202,2,3
+Female,2021-09-20,Henrico,206,3,4
+Female,2021-09-20,Richmond,124,4,7
+Male,2020-04-20,Chesterfield,37,8,6
+Male,2020-04-20,Henrico,63,15,6
+Male,2020-04-20,Richmond,32,11,3
+Male,2020-04-27,Chesterfield,75,8,3
+Male,2020-04-27,Henrico,61,9,9
+Male,2020-04-27,Richmond,48,7,0
+Male,2020-05-04,Chesterfield,93,5,1
+Male,2020-05-04,Henrico,42,8,3
+Male,2020-05-04,Richmond,60,8,1
+Male,2020-05-11,Chesterfield,115,3,2
+Male,2020-05-11,Henrico,83,7,1
+Male,2020-05-11,Richmond,117,14,0
+Male,2020-05-18,Chesterfield,97,2,0
+Male,2020-05-18,Henrico,77,3,2
+Male,2020-05-18,Richmond,109,9,1
+Male,2020-05-25,Chesterfield,179,2,6
+Male,2020-05-25,Henrico,157,14,8
+Male,2020-05-25,Richmond,143,8,3
+Male,2020-06-01,Chesterfield,115,7,2
+Male,2020-06-01,Henrico,122,6,0
+Male,2020-06-01,Richmond,114,11,1
+Male,2020-06-08,Chesterfield,177,16,2
+Male,2020-06-08,Henrico,63,12,2
+Male,2020-06-08,Richmond,86,9,2
+Male,2020-06-15,Chesterfield,226,1,3
+Male,2020-06-15,Henrico,67,1,-1
+Male,2020-06-15,Richmond,79,3,0
+Male,2020-06-22,Chesterfield,149,1,1
+Male,2020-06-22,Henrico,67,6,2
+Male,2020-06-22,Richmond,87,4,-1
+Male,2020-06-29,Chesterfield,80,8,2
+Male,2020-06-29,Henrico,45,7,8
+Male,2020-06-29,Richmond,35,4,-1
+Male,2020-07-06,Chesterfield,82,14,5
+Male,2020-07-06,Henrico,103,3,5
+Male,2020-07-06,Richmond,60,4,5
+Male,2020-07-13,Chesterfield,116,10,2
+Male,2020-07-13,Henrico,60,7,1
+Male,2020-07-13,Richmond,52,7,0
+Male,2020-07-20,Chesterfield,118,15,2
+Male,2020-07-20,Henrico,142,8,0
+Male,2020-07-20,Richmond,56,6,1
+Male,2020-07-27,Chesterfield,136,5,7
+Male,2020-07-27,Henrico,117,2,2
+Male,2020-07-27,Richmond,78,4,0
+Male,2020-08-03,Chesterfield,140,8,0
+Male,2020-08-03,Henrico,81,9,1
+Male,2020-08-03,Richmond,64,4,2
+Male,2020-08-10,Chesterfield,123,6,1
+Male,2020-08-10,Henrico,110,4,0
+Male,2020-08-10,Richmond,79,16,0
+Male,2020-08-17,Chesterfield,110,9,-1
+Male,2020-08-17,Henrico,90,5,1
+Male,2020-08-17,Richmond,98,7,0
+Male,2020-08-24,Chesterfield,85,8,5
+Male,2020-08-24,Henrico,103,9,2
+Male,2020-08-24,Richmond,152,8,1
+Male,2020-08-31,Chesterfield,102,6,1
+Male,2020-08-31,Henrico,81,3,1
+Male,2020-08-31,Richmond,123,9,1
+Male,2020-09-07,Chesterfield,147,11,2
+Male,2020-09-07,Henrico,93,3,0
+Male,2020-09-07,Richmond,79,5,0
+Male,2020-09-14,Chesterfield,99,7,4
+Male,2020-09-14,Henrico,90,10,7
+Male,2020-09-14,Richmond,73,5,3
+Male,2020-09-21,Chesterfield,98,8,1
+Male,2020-09-21,Henrico,74,5,1
+Male,2020-09-21,Richmond,54,3,4
+Male,2020-09-28,Chesterfield,81,12,5
+Male,2020-09-28,Henrico,55,6,5
+Male,2020-09-28,Richmond,58,0,1
+Male,2020-10-05,Chesterfield,94,9,0
+Male,2020-10-05,Henrico,66,4,0
+Male,2020-10-05,Richmond,77,3,0
+Male,2020-10-12,Chesterfield,137,6,1
+Male,2020-10-12,Henrico,88,6,0
+Male,2020-10-12,Richmond,62,-1,0
+Male,2020-10-19,Chesterfield,147,9,2
+Male,2020-10-19,Henrico,120,4,2
+Male,2020-10-19,Richmond,82,8,11
+Male,2020-10-26,Chesterfield,128,13,5
+Male,2020-10-26,Henrico,139,8,4
+Male,2020-10-26,Richmond,67,2,0
+Male,2020-11-02,Chesterfield,157,3,0
+Male,2020-11-02,Henrico,155,11,0
+Male,2020-11-02,Richmond,93,4,0
+Male,2020-11-09,Chesterfield,168,6,0
+Male,2020-11-09,Henrico,116,11,1
+Male,2020-11-09,Richmond,93,2,0
+Male,2020-11-16,Chesterfield,222,8,5
+Male,2020-11-16,Henrico,183,6,0
+Male,2020-11-16,Richmond,146,9,0
+Male,2020-11-23,Chesterfield,293,8,0
+Male,2020-11-23,Henrico,224,9,1
+Male,2020-11-23,Richmond,121,6,2
+Male,2020-11-30,Chesterfield,317,17,1
+Male,2020-11-30,Henrico,264,10,5
+Male,2020-11-30,Richmond,148,3,0
+Male,2020-12-07,Chesterfield,361,14,8
+Male,2020-12-07,Henrico,330,9,4
+Male,2020-12-07,Richmond,171,6,1
+Male,2020-12-14,Chesterfield,393,15,2
+Male,2020-12-14,Henrico,305,10,4
+Male,2020-12-14,Richmond,243,5,2
+Male,2020-12-21,Chesterfield,397,15,6
+Male,2020-12-21,Henrico,343,9,4
+Male,2020-12-21,Richmond,179,6,2
+Male,2020-12-28,Chesterfield,561,8,3
+Male,2020-12-28,Henrico,467,8,2
+Male,2020-12-28,Richmond,286,7,2
+Male,2021-01-04,Chesterfield,554,11,9
+Male,2021-01-04,Henrico,526,4,4
+Male,2021-01-04,Richmond,330,6,2
+Male,2021-01-11,Chesterfield,879,10,6
+Male,2021-01-11,Henrico,564,8,4
+Male,2021-01-11,Richmond,339,5,4
+Male,2021-01-18,Chesterfield,541,14,5
+Male,2021-01-18,Henrico,459,8,3
+Male,2021-01-18,Richmond,239,9,0
+Male,2021-01-25,Chesterfield,624,10,3
+Male,2021-01-25,Henrico,473,13,7
+Male,2021-01-25,Richmond,307,4,8
+Male,2021-02-01,Chesterfield,645,20,3
+Male,2021-02-01,Henrico,408,6,2
+Male,2021-02-01,Richmond,268,6,3
+Male,2021-02-08,Chesterfield,852,19,4
+Male,2021-02-08,Henrico,319,9,2
+Male,2021-02-08,Richmond,252,5,4
+Male,2021-02-15,Chesterfield,312,12,11
+Male,2021-02-15,Henrico,245,12,9
+Male,2021-02-15,Richmond,217,7,3
+Male,2021-02-22,Chesterfield,250,9,31
+Male,2021-02-22,Henrico,197,18,40
+Male,2021-02-22,Richmond,203,3,10
+Male,2021-03-01,Chesterfield,200,12,32
+Male,2021-03-01,Henrico,161,8,21
+Male,2021-03-01,Richmond,101,9,9
+Male,2021-03-08,Chesterfield,225,7,10
+Male,2021-03-08,Henrico,175,6,12
+Male,2021-03-08,Richmond,71,8,3
+Male,2021-03-15,Chesterfield,241,6,2
+Male,2021-03-15,Henrico,168,12,-2
+Male,2021-03-15,Richmond,91,11,2
+Male,2021-03-22,Chesterfield,218,14,8
+Male,2021-03-22,Henrico,220,7,2
+Male,2021-03-22,Richmond,99,3,2
+Male,2021-03-29,Chesterfield,176,11,5
+Male,2021-03-29,Henrico,213,11,8
+Male,2021-03-29,Richmond,104,-1,3
+Male,2021-04-05,Chesterfield,198,8,3
+Male,2021-04-05,Henrico,170,3,1
+Male,2021-04-05,Richmond,97,0,3
+Male,2021-04-12,Chesterfield,242,6,6
+Male,2021-04-12,Henrico,192,3,3
+Male,2021-04-12,Richmond,112,10,0
+Male,2021-04-19,Chesterfield,175,5,2
+Male,2021-04-19,Henrico,138,6,3
+Male,2021-04-19,Richmond,67,5,0
+Male,2021-04-26,Chesterfield,167,10,7
+Male,2021-04-26,Henrico,128,3,1
+Male,2021-04-26,Richmond,87,0,0
+Male,2021-05-03,Chesterfield,163,10,2
+Male,2021-05-03,Henrico,64,11,2
+Male,2021-05-03,Richmond,33,1,1
+Male,2021-05-10,Chesterfield,58,4,0
+Male,2021-05-10,Henrico,51,1,1
+Male,2021-05-10,Richmond,29,1,2
+Male,2021-05-17,Chesterfield,88,8,2
+Male,2021-05-17,Henrico,53,1,2
+Male,2021-05-17,Richmond,17,0,0
+Male,2021-05-24,Chesterfield,49,5,3
+Male,2021-05-24,Henrico,30,2,0
+Male,2021-05-24,Richmond,19,5,1
+Male,2021-05-31,Chesterfield,27,5,0
+Male,2021-05-31,Henrico,20,2,-1
+Male,2021-05-31,Richmond,22,3,1
+Male,2021-06-07,Chesterfield,33,10,1
+Male,2021-06-07,Henrico,15,2,3
+Male,2021-06-07,Richmond,0,5,1
+Male,2021-06-14,Chesterfield,28,5,1
+Male,2021-06-14,Henrico,38,4,1
+Male,2021-06-14,Richmond,7,0,0
+Male,2021-06-21,Chesterfield,13,6,2
+Male,2021-06-21,Henrico,38,6,1
+Male,2021-06-21,Richmond,1,0,-1
+Male,2021-06-28,Chesterfield,33,4,0
+Male,2021-06-28,Henrico,115,3,3
+Male,2021-06-28,Richmond,-46,1,-1
+Male,2021-07-05,Chesterfield,49,5,0
+Male,2021-07-05,Henrico,-6,1,2
+Male,2021-07-05,Richmond,113,0,0
+Male,2021-07-12,Chesterfield,67,1,2
+Male,2021-07-12,Henrico,55,9,1
+Male,2021-07-12,Richmond,35,-2,-1
+Male,2021-07-19,Chesterfield,79,2,0
+Male,2021-07-19,Henrico,113,0,0
+Male,2021-07-19,Richmond,66,-10,4
+Male,2021-07-26,Chesterfield,227,10,0
+Male,2021-07-26,Henrico,122,2,0
+Male,2021-07-26,Richmond,70,1,0
+Male,2021-08-02,Chesterfield,290,6,0
+Male,2021-08-02,Henrico,205,4,1
+Male,2021-08-02,Richmond,157,3,0
+Male,2021-08-09,Chesterfield,317,2,0
+Male,2021-08-09,Henrico,215,2,0
+Male,2021-08-09,Richmond,158,1,0
+Male,2021-08-16,Chesterfield,416,7,2
+Male,2021-08-16,Henrico,252,4,0
+Male,2021-08-16,Richmond,206,4,1
+Male,2021-08-23,Chesterfield,549,4,5
+Male,2021-08-23,Henrico,363,13,3
+Male,2021-08-23,Richmond,256,1,1
+Male,2021-08-30,Chesterfield,495,2,4
+Male,2021-08-30,Henrico,330,5,1
+Male,2021-08-30,Richmond,332,14,1
+Male,2021-09-06,Chesterfield,545,5,4
+Male,2021-09-06,Henrico,312,5,4
+Male,2021-09-06,Richmond,250,7,2
+Male,2021-09-13,Chesterfield,542,2,8
+Male,2021-09-13,Henrico,292,8,3
+Male,2021-09-13,Richmond,273,8,1
+Male,2021-09-20,Chesterfield,244,3,3
+Male,2021-09-20,Henrico,157,2,2
+Male,2021-09-20,Richmond,128,-1,2
+Not Reported,2020-04-20,Chesterfield,-1,0,0
+Not Reported,2020-04-20,Henrico,-15,-1,-5
+Not Reported,2020-04-20,Richmond,-2,-1,1
+Not Reported,2020-04-27,Chesterfield,1,0,0
+Not Reported,2020-04-27,Henrico,-2,0,0
+Not Reported,2020-04-27,Richmond,0,0,0
+Not Reported,2020-05-04,Chesterfield,2,0,0
+Not Reported,2020-05-04,Henrico,0,0,0
+Not Reported,2020-05-04,Richmond,1,0,0
+Not Reported,2020-05-11,Chesterfield,6,0,0
+Not Reported,2020-05-11,Henrico,-2,0,-1
+Not Reported,2020-05-11,Richmond,5,0,0
+Not Reported,2020-05-18,Chesterfield,9,0,0
+Not Reported,2020-05-18,Henrico,1,0,0
+Not Reported,2020-05-18,Richmond,5,1,0
+Not Reported,2020-05-25,Chesterfield,17,0,1
+Not Reported,2020-05-25,Henrico,6,0,2
+Not Reported,2020-05-25,Richmond,10,0,0
+Not Reported,2020-06-01,Chesterfield,23,0,0
+Not Reported,2020-06-01,Henrico,2,0,0
+Not Reported,2020-06-01,Richmond,6,0,0
+Not Reported,2020-06-08,Chesterfield,3,0,0
+Not Reported,2020-06-08,Henrico,-1,0,-1
+Not Reported,2020-06-08,Richmond,-7,0,0
+Not Reported,2020-06-15,Chesterfield,-4,0,1
+Not Reported,2020-06-15,Henrico,0,0,0
+Not Reported,2020-06-15,Richmond,-4,0,0
+Not Reported,2020-06-22,Chesterfield,5,0,0
+Not Reported,2020-06-22,Henrico,-1,0,0
+Not Reported,2020-06-22,Richmond,-3,0,0
+Not Reported,2020-06-29,Chesterfield,0,0,0
+Not Reported,2020-06-29,Henrico,5,0,0
+Not Reported,2020-06-29,Richmond,1,0,0
+Not Reported,2020-07-06,Chesterfield,2,0,0
+Not Reported,2020-07-06,Henrico,-1,0,-1
+Not Reported,2020-07-06,Richmond,0,0,0
+Not Reported,2020-07-13,Chesterfield,7,0,0
+Not Reported,2020-07-13,Henrico,1,0,0
+Not Reported,2020-07-13,Richmond,1,0,0
+Not Reported,2020-07-20,Chesterfield,0,0,-2
+Not Reported,2020-07-20,Henrico,3,1,0
+Not Reported,2020-07-20,Richmond,1,0,0
+Not Reported,2020-07-27,Chesterfield,4,0,2
+Not Reported,2020-07-27,Henrico,2,-1,0
+Not Reported,2020-07-27,Richmond,-2,0,0
+Not Reported,2020-08-03,Chesterfield,14,0,0
+Not Reported,2020-08-03,Henrico,5,0,0
+Not Reported,2020-08-03,Richmond,8,0,0
+Not Reported,2020-08-10,Chesterfield,7,0,0
+Not Reported,2020-08-10,Henrico,-3,0,0
+Not Reported,2020-08-10,Richmond,-4,0,0
+Not Reported,2020-08-17,Chesterfield,0,0,-1
+Not Reported,2020-08-17,Henrico,-1,0,0
+Not Reported,2020-08-17,Richmond,1,0,0
+Not Reported,2020-08-24,Chesterfield,-2,0,0
+Not Reported,2020-08-24,Henrico,6,0,0
+Not Reported,2020-08-24,Richmond,1,0,0
+Not Reported,2020-08-31,Chesterfield,2,0,0
+Not Reported,2020-08-31,Henrico,3,0,0
+Not Reported,2020-08-31,Richmond,0,0,0
+Not Reported,2020-09-07,Chesterfield,-7,0,0
+Not Reported,2020-09-07,Henrico,3,0,0
+Not Reported,2020-09-07,Richmond,1,0,0
+Not Reported,2020-09-14,Chesterfield,0,0,0
+Not Reported,2020-09-14,Henrico,5,0,0
+Not Reported,2020-09-14,Richmond,4,0,1
+Not Reported,2020-09-21,Chesterfield,-2,0,0
+Not Reported,2020-09-21,Henrico,-3,0,0
+Not Reported,2020-09-21,Richmond,2,0,0
+Not Reported,2020-09-28,Chesterfield,-1,0,0
+Not Reported,2020-09-28,Henrico,1,0,0
+Not Reported,2020-09-28,Richmond,-3,0,0
+Not Reported,2020-10-05,Chesterfield,-4,0,0
+Not Reported,2020-10-05,Henrico,0,0,0
+Not Reported,2020-10-05,Richmond,-3,-1,-1
+Not Reported,2020-10-12,Chesterfield,27,0,0
+Not Reported,2020-10-12,Henrico,5,0,0
+Not Reported,2020-10-12,Richmond,0,0,0
+Not Reported,2020-10-19,Chesterfield,6,0,0
+Not Reported,2020-10-19,Henrico,-2,0,0
+Not Reported,2020-10-19,Richmond,5,0,0
+Not Reported,2020-10-26,Chesterfield,-14,0,3
+Not Reported,2020-10-26,Henrico,10,1,0
+Not Reported,2020-10-26,Richmond,8,0,0
+Not Reported,2020-11-02,Chesterfield,3,0,-1
+Not Reported,2020-11-02,Henrico,10,0,0
+Not Reported,2020-11-02,Richmond,3,0,0
+Not Reported,2020-11-09,Chesterfield,10,0,0
+Not Reported,2020-11-09,Henrico,-5,0,0
+Not Reported,2020-11-09,Richmond,4,0,0
+Not Reported,2020-11-16,Chesterfield,10,0,-1
+Not Reported,2020-11-16,Henrico,10,0,0
+Not Reported,2020-11-16,Richmond,2,0,0
+Not Reported,2020-11-23,Chesterfield,3,0,0
+Not Reported,2020-11-23,Henrico,11,0,0
+Not Reported,2020-11-23,Richmond,9,0,0
+Not Reported,2020-11-30,Chesterfield,9,0,2
+Not Reported,2020-11-30,Henrico,17,0,0
+Not Reported,2020-11-30,Richmond,3,0,0
+Not Reported,2020-12-07,Chesterfield,7,0,0
+Not Reported,2020-12-07,Henrico,10,0,0
+Not Reported,2020-12-07,Richmond,8,0,0
+Not Reported,2020-12-14,Chesterfield,4,0,0
+Not Reported,2020-12-14,Henrico,10,0,0
+Not Reported,2020-12-14,Richmond,9,0,0
+Not Reported,2020-12-21,Chesterfield,38,0,0
+Not Reported,2020-12-21,Henrico,25,0,2
+Not Reported,2020-12-21,Richmond,15,0,0
+Not Reported,2020-12-28,Chesterfield,26,0,1
+Not Reported,2020-12-28,Henrico,19,1,0
+Not Reported,2020-12-28,Richmond,15,0,0
+Not Reported,2021-01-04,Chesterfield,14,0,0
+Not Reported,2021-01-04,Henrico,25,0,0
+Not Reported,2021-01-04,Richmond,7,0,0
+Not Reported,2021-01-11,Chesterfield,22,0,0
+Not Reported,2021-01-11,Henrico,50,0,0
+Not Reported,2021-01-11,Richmond,22,0,0
+Not Reported,2021-01-18,Chesterfield,15,0,0
+Not Reported,2021-01-18,Henrico,35,0,0
+Not Reported,2021-01-18,Richmond,9,0,0
+Not Reported,2021-01-25,Chesterfield,43,0,0
+Not Reported,2021-01-25,Henrico,39,0,0
+Not Reported,2021-01-25,Richmond,32,0,0
+Not Reported,2021-02-01,Chesterfield,30,0,0
+Not Reported,2021-02-01,Henrico,12,0,0
+Not Reported,2021-02-01,Richmond,17,0,0
+Not Reported,2021-02-08,Chesterfield,48,0,-2
+Not Reported,2021-02-08,Henrico,13,0,0
+Not Reported,2021-02-08,Richmond,5,0,0
+Not Reported,2021-02-15,Chesterfield,-8,0,-1
+Not Reported,2021-02-15,Henrico,3,0,0
+Not Reported,2021-02-15,Richmond,-1,0,0
+Not Reported,2021-02-22,Chesterfield,1,0,0
+Not Reported,2021-02-22,Henrico,-1,-1,0
+Not Reported,2021-02-22,Richmond,-7,0,0
+Not Reported,2021-03-01,Chesterfield,-9,0,0
+Not Reported,2021-03-01,Henrico,-17,0,0
+Not Reported,2021-03-01,Richmond,-6,0,0
+Not Reported,2021-03-08,Chesterfield,-8,0,0
+Not Reported,2021-03-08,Henrico,2,0,0
+Not Reported,2021-03-08,Richmond,9,0,0
+Not Reported,2021-03-15,Chesterfield,-2,0,-1
+Not Reported,2021-03-15,Henrico,-2,0,0
+Not Reported,2021-03-15,Richmond,-2,0,0
+Not Reported,2021-03-22,Chesterfield,-3,0,0
+Not Reported,2021-03-22,Henrico,-30,-1,0
+Not Reported,2021-03-22,Richmond,-13,0,0
+Not Reported,2021-03-29,Chesterfield,1,0,0
+Not Reported,2021-03-29,Henrico,-21,0,0
+Not Reported,2021-03-29,Richmond,3,0,0
+Not Reported,2021-04-05,Chesterfield,-4,0,0
+Not Reported,2021-04-05,Henrico,2,0,0
+Not Reported,2021-04-05,Richmond,6,0,0
+Not Reported,2021-04-12,Chesterfield,7,0,0
+Not Reported,2021-04-12,Henrico,5,0,0
+Not Reported,2021-04-12,Richmond,-7,0,-1
+Not Reported,2021-04-19,Chesterfield,0,0,0
+Not Reported,2021-04-19,Henrico,-23,0,0
+Not Reported,2021-04-19,Richmond,-6,0,0
+Not Reported,2021-04-26,Chesterfield,-17,0,0
+Not Reported,2021-04-26,Henrico,-30,0,0
+Not Reported,2021-04-26,Richmond,-39,-1,-1
+Not Reported,2021-05-03,Chesterfield,-5,0,0
+Not Reported,2021-05-03,Henrico,-4,0,0
+Not Reported,2021-05-03,Richmond,-3,0,0
+Not Reported,2021-05-10,Chesterfield,4,0,0
+Not Reported,2021-05-10,Henrico,-1,0,-1
+Not Reported,2021-05-10,Richmond,-1,0,0
+Not Reported,2021-05-17,Chesterfield,1,1,0
+Not Reported,2021-05-17,Henrico,10,0,0
+Not Reported,2021-05-17,Richmond,0,0,0
+Not Reported,2021-05-24,Chesterfield,-4,0,0
+Not Reported,2021-05-24,Henrico,-1,0,0
+Not Reported,2021-05-24,Richmond,0,0,0
+Not Reported,2021-05-31,Chesterfield,-7,0,0
+Not Reported,2021-05-31,Henrico,-2,0,0
+Not Reported,2021-05-31,Richmond,0,0,0
+Not Reported,2021-06-07,Chesterfield,-5,0,0
+Not Reported,2021-06-07,Henrico,-3,0,0
+Not Reported,2021-06-07,Richmond,-6,0,0
+Not Reported,2021-06-14,Chesterfield,-2,0,0
+Not Reported,2021-06-14,Henrico,-1,0,0
+Not Reported,2021-06-14,Richmond,-5,0,0
+Not Reported,2021-06-21,Chesterfield,-9,0,0
+Not Reported,2021-06-21,Henrico,-2,0,0
+Not Reported,2021-06-21,Richmond,-3,0,0
+Not Reported,2021-06-28,Chesterfield,-8,0,0
+Not Reported,2021-06-28,Henrico,-2,0,0
+Not Reported,2021-06-28,Richmond,-1,0,0
+Not Reported,2021-07-05,Chesterfield,-1,0,0
+Not Reported,2021-07-05,Henrico,-8,0,0
+Not Reported,2021-07-05,Richmond,0,0,0
+Not Reported,2021-07-12,Chesterfield,-2,0,0
+Not Reported,2021-07-12,Henrico,3,0,0
+Not Reported,2021-07-12,Richmond,-2,0,0
+Not Reported,2021-07-19,Chesterfield,1,0,0
+Not Reported,2021-07-19,Henrico,-9,0,0
+Not Reported,2021-07-19,Richmond,-2,0,0
+Not Reported,2021-07-26,Chesterfield,1,0,0
+Not Reported,2021-07-26,Henrico,-9,0,0
+Not Reported,2021-07-26,Richmond,-6,0,0
+Not Reported,2021-08-02,Chesterfield,5,0,0
+Not Reported,2021-08-02,Henrico,0,0,0
+Not Reported,2021-08-02,Richmond,1,0,0
+Not Reported,2021-08-09,Chesterfield,6,0,0
+Not Reported,2021-08-09,Henrico,4,0,0
+Not Reported,2021-08-09,Richmond,-4,0,0
+Not Reported,2021-08-16,Chesterfield,5,0,0
+Not Reported,2021-08-16,Henrico,1,0,0
+Not Reported,2021-08-16,Richmond,7,0,0
+Not Reported,2021-08-23,Chesterfield,16,0,0
+Not Reported,2021-08-23,Henrico,2,0,0
+Not Reported,2021-08-23,Richmond,0,0,0
+Not Reported,2021-08-30,Chesterfield,25,0,0
+Not Reported,2021-08-30,Henrico,2,0,0
+Not Reported,2021-08-30,Richmond,-1,0,0
+Not Reported,2021-09-06,Chesterfield,16,0,0
+Not Reported,2021-09-06,Henrico,2,0,0
+Not Reported,2021-09-06,Richmond,1,0,0
+Not Reported,2021-09-13,Chesterfield,12,0,0
+Not Reported,2021-09-13,Henrico,2,0,0
+Not Reported,2021-09-13,Richmond,3,0,0
+Not Reported,2021-09-20,Chesterfield,4,0,0
+Not Reported,2021-09-20,Henrico,4,0,0
+Not Reported,2021-09-20,Richmond,6,0,0
